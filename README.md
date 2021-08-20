@@ -1,6 +1,6 @@
 # Review FontAwesome icon list offline
 
-![FontAwesome](/resources/fontawesome.png)
+![FontAwesome](/resources/font-awesome.png)
 
 ### Original
 
