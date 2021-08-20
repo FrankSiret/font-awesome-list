@@ -1,3 +1,7 @@
-# font-awesome-list
+# Review FontAwesome icon list offline
 
-to review all awesome font offline
+![FontAwesome](/resources/fontawesome.png)
+
+### Original
+
+<https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=brands,regular,solid&m=free>
